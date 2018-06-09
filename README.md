@@ -1,2 +1,3 @@
 # Instruments-
-Java, mysql, MVC
+
+Autors: Lisandra Agüero & Adriana Caballeros
